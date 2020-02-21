@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A219ECF01BD3E03B00E89DBC"
+               BlueprintIdentifier = "A219ED351BD3E24400E89DBC"
                BuildableName = "DOY WatchKit App.app"
                BlueprintName = "DOY WatchKit App"
                ReferencedContainer = "container:DOY.xcodeproj">
@@ -28,9 +28,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A219ECFF1BD3E03B00E89DBC"
-               BuildableName = "DOY WatchKit Extension.appex"
-               BlueprintName = "DOY WatchKit Extension"
+               BlueprintIdentifier = "A219ED231BD3E24400E89DBC"
+               BuildableName = "DOY.app"
+               BlueprintName = "DOY"
                ReferencedContainer = "container:DOY.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -42,9 +42,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A219ECDE1BD3E03A00E89DBC"
-               BuildableName = "DOY.app"
-               BlueprintName = "DOY"
+               BlueprintIdentifier = "A219ED441BD3E24400E89DBC"
+               BuildableName = "DOY WatchKit Extension.appex"
+               BlueprintName = "DOY WatchKit Extension"
                ReferencedContainer = "container:DOY.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -60,7 +60,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A219ECF01BD3E03B00E89DBC"
+            BlueprintIdentifier = "A219ED351BD3E24400E89DBC"
             BuildableName = "DOY WatchKit App.app"
             BlueprintName = "DOY WatchKit App"
             ReferencedContainer = "container:DOY.xcodeproj">
@@ -86,7 +86,7 @@
          RemotePath = "/DOY WatchKit App">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A219ECF01BD3E03B00E89DBC"
+            BlueprintIdentifier = "A219ED351BD3E24400E89DBC"
             BuildableName = "DOY WatchKit App.app"
             BlueprintName = "DOY WatchKit App"
             ReferencedContainer = "container:DOY.xcodeproj">
@@ -95,7 +95,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A219ECF01BD3E03B00E89DBC"
+            BlueprintIdentifier = "A219ED351BD3E24400E89DBC"
             BuildableName = "DOY WatchKit App.app"
             BlueprintName = "DOY WatchKit App"
             ReferencedContainer = "container:DOY.xcodeproj">
@@ -117,7 +117,7 @@
          RemotePath = "/DOY WatchKit App">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A219ECF01BD3E03B00E89DBC"
+            BlueprintIdentifier = "A219ED351BD3E24400E89DBC"
             BuildableName = "DOY WatchKit App.app"
             BlueprintName = "DOY WatchKit App"
             ReferencedContainer = "container:DOY.xcodeproj">
@@ -126,7 +126,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A219ECF01BD3E03B00E89DBC"
+            BlueprintIdentifier = "A219ED351BD3E24400E89DBC"
             BuildableName = "DOY WatchKit App.app"
             BlueprintName = "DOY WatchKit App"
             ReferencedContainer = "container:DOY.xcodeproj">

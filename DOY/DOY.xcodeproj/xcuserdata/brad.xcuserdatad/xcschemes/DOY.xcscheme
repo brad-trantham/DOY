@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A219ECDE1BD3E03A00E89DBC"
+               BlueprintIdentifier = "A219ED231BD3E24400E89DBC"
                BuildableName = "DOY.app"
                BlueprintName = "DOY"
                ReferencedContainer = "container:DOY.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A219ECDE1BD3E03A00E89DBC"
+            BlueprintIdentifier = "A219ED231BD3E24400E89DBC"
             BuildableName = "DOY.app"
             BlueprintName = "DOY"
             ReferencedContainer = "container:DOY.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A219ECDE1BD3E03A00E89DBC"
+            BlueprintIdentifier = "A219ED231BD3E24400E89DBC"
             BuildableName = "DOY.app"
             BlueprintName = "DOY"
             ReferencedContainer = "container:DOY.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A219ECDE1BD3E03A00E89DBC"
+            BlueprintIdentifier = "A219ED231BD3E24400E89DBC"
             BuildableName = "DOY.app"
             BlueprintName = "DOY"
             ReferencedContainer = "container:DOY.xcodeproj">
